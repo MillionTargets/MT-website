@@ -1,0 +1,40 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #f5f5f5;
+}
+.hero {
+  padding: 50px 20px;
+  background-color: #fff;
+}
+.logo {
+  width: 150px;
+  margin-bottom: 20px;
+}
+.section {
+  padding: 40px 20px;
+}
+.section.alt {
+  background-color: #ffffff;
+  color: #333;
+}
+.section ul {
+  list-style: none;
+  padding: 0;
+}
+.section ul li {
+  margin: 10px 0;
+}
+blockquote {
+  font-style: italic;
+  margin: 20px auto;
+  max-width: 600px;
+}
+.footer {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+}
